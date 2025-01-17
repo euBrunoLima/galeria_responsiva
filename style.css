@@ -11,15 +11,13 @@ body{
     height: 100dvh;
     width: 100%;
     background-color: rgb(8, 8, 8);
-    overflow: hidden;
-
 }
+
 .galeria{
     display: flex;
     flex-basis: 90%;
     height: 90dvh;
     gap: 10px;
-    overflow: hidden;
 }
 
 .side1, .side2{
